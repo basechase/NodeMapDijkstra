@@ -10,11 +10,11 @@ void SampleScene::start()
 	std::vector<std::string> asciiMap;
 
 	asciiMap.push_back("00000000000000000000");
-	asciiMap.push_back("01011111111111011100");
-	asciiMap.push_back("01011111111101110110");
-	asciiMap.push_back("01111111111100000010");
+	asciiMap.push_back("01010111111111011100");
+	asciiMap.push_back("01011110111101110110");
+	asciiMap.push_back("0111111011100000010");
 	asciiMap.push_back("01011111111111111110");
-	asciiMap.push_back("01001100111100001000");
+	asciiMap.push_back("01000100111100001000");
 	asciiMap.push_back("01111111111111111110");
 	asciiMap.push_back("01111100011000011110");
 	asciiMap.push_back("01111101011111111110");
